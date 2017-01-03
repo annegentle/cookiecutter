@@ -12,6 +12,11 @@ Cookiecutter template for an OpenStack project. See https://github.com/audreyr/c
 * Tox_ testing: Setup to easily test for Python 2.6, 2.7, 3.3, 3.4
 * Sphinx_ docs: Documentation ready for generation and publication
 
+Contributing
+------------
+
+.. include:: CONTRIBUTING.txt
+
 Usage
 -----
 
